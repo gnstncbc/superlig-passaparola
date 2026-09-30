@@ -283,7 +283,7 @@ export default function Game({ questions, daily }: { questions: Question[]; dail
     const typed = guess.trim();
     if (!typed || typed.toLocaleLowerCase("tr") === "pas") return resolve("passed");
     const q = slots[current].q;
-    resolve(isCorrect(typed, q.answer, q.alternates) ? "correct" : "wrong", typed);
+    resolve(isCorrect(typed, q.answer, q.alternates, q.question) ? "correct" : "wrong", typed);
   };
 
   const pause = () => {

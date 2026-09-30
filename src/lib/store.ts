@@ -2,6 +2,7 @@ import "server-only";
 import { createHash } from "node:crypto";
 import { Redis } from "@upstash/redis";
 import seed from "@/data/seed-questions.json";
+import seedFixes from "@/data/seed-fixes.json";
 import type { Question } from "./types";
 
 const HASH = "sl:questions";
@@ -9,10 +10,21 @@ const SEED_VERSION = "sl:seedVersion";
 const DELETED = "sl:deleted";
 
 const seedList = seed as Question[];
+
+// Corrections to default questions. Applied to a stored question only while
+// its field still has the old text, so edits made in the admin panel win.
+interface SeedFix {
+  id: string;
+  field: "question" | "answer";
+  from: string;
+  to: string;
+}
+const fixList = seedFixes as SeedFix[];
 // Changes whenever questions are added to the seed file, so new defaults get
 // merged into an existing database without touching edited or deleted ones.
 const seedVersion = `v2-${createHash("sha1")
   .update(seedList.map((q) => `${q.id}:${q.category}`).join(","))
+  .update(JSON.stringify(fixList))
   .digest("hex")}`;
 
 // Entries saved before categories existed count as Süper Lig questions.
@@ -75,6 +87,15 @@ async function ensureSeeded(r: Redis) {
         .filter(([, q]) => q && !q.category)
         .map(([id, q]) => [id, { ...q!, category: "general" as const }]),
     );
+    if (Object.keys(patch).length) await r.hset(HASH, patch);
+  }
+  if (fixList.length) {
+    const stored = (await r.hmget<Record<string, Question | null>>(HASH, ...fixList.map((f) => f.id))) ?? {};
+    const patch: Record<string, Question> = {};
+    for (const f of fixList) {
+      const q = patch[f.id] ?? stored[f.id];
+      if (q && q[f.field] === f.from) patch[f.id] = { ...q, [f.field]: f.to };
+    }
     if (Object.keys(patch).length) await r.hset(HASH, patch);
   }
   await r.set(SEED_VERSION, seedVersion);

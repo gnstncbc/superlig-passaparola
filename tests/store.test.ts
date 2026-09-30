@@ -1,5 +1,6 @@
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import seed from "@/data/seed-questions.json";
+import seedFixes from "@/data/seed-fixes.json";
 
 // Minimal in-memory stand-in for the Upstash client (keyed like Redis).
 const store_ = { kv: new Map<string, unknown>(), hashes: new Map<string, Map<string, unknown>>(), sets: new Map<string, Set<string>>() };
@@ -76,6 +77,18 @@ describe("redis store seeding", () => {
     const found = (await store.listQuestions()).find((q) => q.id === general.id)!;
     expect(found.category).toBe("general");
     expect(found.question).toBe("EDITED");
+  });
+
+  it("applies question fixes only where the old text is still stored", async () => {
+    const [fix] = seedFixes;
+    seed.forEach((q) => db.hash.set(q.id, q));
+    db.hash.set(fix.id, { ...seed.find((q) => q.id === fix.id)!, question: fix.from });
+    db.kv.set("sl:seedVersion", "old");
+    expect((await store.listQuestions()).find((q) => q.id === fix.id)!.question).toBe(fix.to);
+
+    db.hash.set(fix.id, { ...seed.find((q) => q.id === fix.id)!, question: "edited by admin" });
+    db.kv.set("sl:seedVersion", "old");
+    expect((await store.listQuestions()).find((q) => q.id === fix.id)!.question).toBe("edited by admin");
   });
 
   it("does not restore deleted questions on the next seed update", async () => {

@@ -45,7 +45,7 @@ export default function AdminStats({
       const q = byId.get(id);
       if (!q) continue;
       for (const { guess, count } of guesses) {
-        if (isCorrect(guess, q.answer, q.alternates)) continue; // already accepted now
+        if (isCorrect(guess, q.answer, q.alternates, q.question)) continue; // already accepted now
         const score = closeness(guess, q.answer, q.alternates);
         if (score >= 0.55) rows.push({ q, guess, count, score });
       }

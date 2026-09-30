@@ -115,7 +115,7 @@ export default function AdminPanel({ initial, storeKind }: { initial: Question[]
       flash(draft.id ? "Soru güncellendi" : "Soru eklendi");
       // Wrong guesses that the edited answer now accepts no longer need review.
       const accepted = (report?.wrong[saved.id] ?? []).filter((w) =>
-        isCorrect(w.guess, saved.answer, saved.alternates),
+        isCorrect(w.guess, saved.answer, saved.alternates, saved.question),
       );
       if (accepted.length) {
         await Promise.all(
@@ -213,7 +213,7 @@ export default function AdminPanel({ initial, storeKind }: { initial: Question[]
 
   const alternates = draft ? splitAlternates(draft.alternatesText) : [];
   const letterOk = draft && draft.answer ? fitsLetter(draft.answer, draft.letter, draft.rule) : true;
-  const testResult = draft && testGuess.trim() ? isCorrect(testGuess, draft.answer, alternates) : null;
+  const testResult = draft && testGuess.trim() ? isCorrect(testGuess, draft.answer, alternates, draft.question) : null;
 
   return (
     <div className={s.page}>
@@ -495,7 +495,7 @@ export default function AdminPanel({ initial, storeKind }: { initial: Question[]
                     <span className={s.hint}>Oyuncuların yanlış cevapları (dokununca alternatiflere eklenir):</span>
                     <ul>
                       {report.wrong[draft.id]
-                        .filter((w) => !isCorrect(w.guess, draft.answer, alternates))
+                        .filter((w) => !isCorrect(w.guess, draft.answer, alternates, draft.question))
                         .slice(0, 12)
                         .map((w) => (
                           <li key={w.guess}>

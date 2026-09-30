@@ -99,3 +99,36 @@ describe("closeness", () => {
     expect(closeness("galatasaray", "Anadolu Efes")).toBeLessThan(0.55);
   });
 });
+
+describe("fill-in-the-blank questions", () => {
+  it("accepts the blanked word on its own", () => {
+    const q = "Galatasaray'ın 2017-2021 arası Faslı ofansif orta sahası ___ Belhanda.";
+    expect(isCorrect("Younes", "Younès Belhanda", ["Belhanda"], q)).toBe(true);
+    expect(isCorrect("younès", "Younès Belhanda", [], q)).toBe(true);
+    expect(isCorrect("Belhanda", "Younès Belhanda", [], q)).toBe(true);
+    expect(isCorrect("Mike", "Mike James", [], "AS Monaco'nun yıldızı Mike ___.")).toBe(false);
+    expect(isCorrect("James", "Mike James", [], "AS Monaco'nun yıldızı Mike ___.")).toBe(true);
+  });
+
+  it("does not accept a first name alone without a blank", () => {
+    expect(isCorrect("Younes", "Younès Belhanda", [], "Galatasaray'ın Faslı orta sahası.")).toBe(false);
+  });
+
+  it("every seed question with a blank accepts what the blank asks for", () => {
+    for (const q of seed) {
+      if (!q.question.includes("___")) continue;
+      const shown = new Set(normalize(q.question).split(" "));
+      const missing = normalize(q.answer).split(" ").filter((w) => w && !shown.has(w)).join(" ");
+      if (missing.replace(/ /g, "").length < 3) continue;
+      expect(isCorrect(missing, q.answer, q.alternates, q.question), `${q.id}: ${missing}`).toBe(true);
+    }
+  });
+
+  it("no question gives its answer away", () => {
+    for (const q of seed) {
+      const text = ` ${normalize(q.question)} `;
+      const words = normalize(q.answer).split(" ").filter((w) => w.length >= 3);
+      expect(words.length > 0 && words.every((w) => text.includes(` ${w} `)), `${q.id}: ${q.answer}`).toBe(false);
+    }
+  });
+});

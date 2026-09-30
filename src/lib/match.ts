@@ -110,9 +110,29 @@ function formsMatch(input: string, target: string): boolean {
   return false;
 }
 
-export function isCorrect(guess: string, answer: string, alternates: string[] = []): boolean {
+// For fill-in-the-blank questions ("… ___ Belhanda."), the answer words that
+// are not already in the question are exactly what is asked, so they count
+// on their own (e.g. "Younès" for "Younès Belhanda").
+function blankForm(question: string | undefined, answer: string): string | null {
+  if (!question?.includes("___")) return null;
+  const shown = new Set(normalize(question).split(" "));
+  const missing = normalize(answer)
+    .split(" ")
+    .filter((w) => w && !shown.has(w))
+    .join("");
+  return missing.length >= 3 ? missing : null;
+}
+
+export function isCorrect(
+  guess: string,
+  answer: string,
+  alternates: string[] = [],
+  question?: string,
+): boolean {
   const inputs = inputForms(guess);
   if (!inputs.length) return false;
+  const blank = blankForm(question, answer);
+  if (blank && inputs.some((input) => formsMatch(input, blank))) return true;
   for (const option of [answer, ...alternates]) {
     for (const target of candidateForms(option)) {
       for (const input of inputs) {
