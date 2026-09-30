@@ -1,0 +1,85 @@
+@property --s {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 1;
+}
+
+.ring {
+  --b: calc(var(--ring) * 0.092);
+  position: relative;
+  width: var(--ring);
+  height: var(--ring);
+  flex: none;
+}
+
+.bubble {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: var(--b);
+  height: var(--b);
+  margin: calc(var(--b) / -2) 0 0 calc(var(--b) / -2);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  font-size: calc(var(--b) * 0.5);
+  line-height: 1;
+  /* Scale last so it grows in place instead of moving away from the centre. */
+  transform: rotate(calc(var(--a) - 90deg)) translate(calc(var(--ring) / 2 - var(--b) / 2 - 2px))
+    rotate(calc(90deg - var(--a))) scale(var(--s));
+  background: var(--tile);
+  border: 1.5px solid var(--tile-line);
+  color: var(--fg);
+  transition: background-color 0.25s, border-color 0.25s, color 0.25s, --s 0.25s;
+  user-select: none;
+}
+
+.current {
+  background: var(--current);
+  border-color: var(--current);
+  color: var(--current-fg);
+  --s: 1.18;
+  z-index: 1;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--current) 22%, transparent);
+}
+
+.correct,
+.wrong,
+.passed {
+  color: var(--on-state);
+  animation: pop 0.3s ease;
+}
+.correct {
+  background: var(--green);
+  border-color: var(--green);
+}
+.wrong {
+  background: var(--red);
+  border-color: var(--red);
+}
+.passed {
+  background: var(--yellow);
+  border-color: var(--yellow);
+}
+
+@keyframes pop {
+  50% {
+    --s: 1.2;
+  }
+}
+
+.inner {
+  position: absolute;
+  inset: calc(var(--b) + 10px);
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bubble {
+    transition: none;
+    animation: none;
+  }
+}
