@@ -201,6 +201,95 @@
     "alternates": []
   },
   {
+    "id": "a19",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2020 Türkiye Kupası finalinde Trabzonspor'a kaybeden Akdeniz kulübü.",
+    "answer": "Alanyaspor",
+    "alternates": [
+      "Alanya"
+    ]
+  },
+  {
+    "id": "a20",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2021 Türkiye Kupası finalinde Beşiktaş'a kaybeden Akdeniz kulübü.",
+    "answer": "Antalyaspor",
+    "alternates": [
+      "Antalya"
+    ]
+  },
+  {
+    "id": "a21",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'yi 2008-09 sezonunda çalıştıran, İspanya'yı Euro 2008'de şampiyon yapmış teknik direktör Luis ___.",
+    "answer": "Luis Aragonés",
+    "alternates": [
+      "Aragones"
+    ]
+  },
+  {
+    "id": "a22",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'da forma giyen, Sofyan'ın ağabeyi olan Faslı kanat Nordin ___.",
+    "answer": "Nordin Amrabat",
+    "alternates": [
+      "Amrabat"
+    ]
+  },
+  {
+    "id": "a23",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Arda Turan'ın 2011'de Galatasaray'dan transfer olduğu İspanyol kulübü.",
+    "answer": "Atlético Madrid",
+    "alternates": [
+      "Atletico Madrid",
+      "Atletico",
+      "Atlético"
+    ]
+  },
+  {
+    "id": "a24",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Dušan Tadić'in Fenerbahçe'ye gelmeden önce kaptanlığını yaptığı Hollanda kulübü.",
+    "answer": "Ajax",
+    "alternates": []
+  },
+  {
+    "id": "a25",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Jorge Jesus'un Fenerbahçe'den ayrıldıktan sonra gittiği Suudi Arabistan kulübü.",
+    "answer": "Al-Hilal",
+    "alternates": [
+      "Al Hilal",
+      "Hilal"
+    ]
+  },
+  {
+    "id": "a26",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın takımı ve taraftarları için kullanılan, bir hayvandan gelen lakap.",
+    "answer": "Aslan",
+    "alternates": [
+      "Aslanlar"
+    ]
+  },
+  {
     "id": "b1",
     "letter": "B",
     "rule": "starts",
@@ -372,6 +461,85 @@
     ]
   },
   {
+    "id": "b16",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2012 ve 2015 Türkiye Kupası finallerinde kaybeden Timsahlar.",
+    "answer": "Bursaspor",
+    "alternates": [
+      "Bursa"
+    ]
+  },
+  {
+    "id": "b17",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Burak Yılmaz'ın 2016'da Trabzonspor'dan transfer olduğu Çin kulübü.",
+    "answer": "Beijing Guoan",
+    "alternates": [
+      "Beijing",
+      "Guoan"
+    ]
+  },
+  {
+    "id": "b18",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Sivasspor'u 2008-09'da ikinciliğe taşıyan teknik direktör Bülent ___.",
+    "answer": "Bülent Uygun",
+    "alternates": [
+      "Uygun"
+    ]
+  },
+  {
+    "id": "b19",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2011, 2017 ve 2023 Türkiye Kupası finallerinde kaybeden İstanbul kulübü.",
+    "answer": "Başakşehir",
+    "alternates": [
+      "Basaksehir",
+      "İstanbul Başakşehir",
+      "İBB"
+    ]
+  },
+  {
+    "id": "b20",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2018-19'da son haftaya kadar Galatasaray'la yarışıp ikinci olan kulüp.",
+    "answer": "Başakşehir",
+    "alternates": [
+      "Basaksehir",
+      "İstanbul Başakşehir"
+    ]
+  },
+  {
+    "id": "b21",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2010-11'de Şampiyonlar Ligi grubunda Manchester United, Rangers ve Valencia ile eşleşen Türk kulübü.",
+    "answer": "Bursaspor",
+    "alternates": [
+      "Bursa"
+    ]
+  },
+  {
+    "id": "b22",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ın 2016-17 Şampiyonlar Ligi grubunda İstanbul'da 0-3'ten 3-3'e getirdiği Portekiz kulübü.",
+    "answer": "Benfica",
+    "alternates": []
+  },
+  {
     "id": "c1",
     "letter": "C",
     "rule": "starts",
@@ -472,6 +640,61 @@
     ]
   },
   {
+    "id": "c10",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe ve Galatasaray formaları giyen, İngiltere doğumlu Türk milli forvet Colin ___.",
+    "answer": "Colin Kazim-Richards",
+    "alternates": [
+      "Kazim-Richards",
+      "Kazim Richards",
+      "Kazim"
+    ]
+  },
+  {
+    "id": "c11",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Alex de Souza'nın Fenerbahçe'ye 2004'te geldiği Brezilya kulübü.",
+    "answer": "Cruzeiro",
+    "alternates": []
+  },
+  {
+    "id": "c12",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Zico'nun Fenerbahçe'den sonra çalıştırdığı Rus kulübü.",
+    "answer": "CSKA Moskova",
+    "alternates": [
+      "CSKA",
+      "CSKA Moscow"
+    ]
+  },
+  {
+    "id": "c13",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Sivasspor'u 2022'de Türkiye Kupası şampiyonluğuna taşıyan teknik direktör Rıza ___.",
+    "answer": "Rıza Çalımbay",
+    "alternates": [
+      "Çalımbay",
+      "Calimbay"
+    ]
+  },
+  {
+    "id": "c14",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Alex de Souza'nın Fenerbahçe'den ayrıldıktan sonra dönüp futbolu bıraktığı Brezilya kulübü.",
+    "answer": "Coritiba",
+    "alternates": []
+  },
+  {
     "id": "d1",
     "letter": "D",
     "rule": "starts",
@@ -570,6 +793,29 @@
     ]
   },
   {
+    "id": "d10",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2021-22 sezonunda çalıştıran, Guardiola'nın uzun süreli yardımcısı İspanyol teknik direktör.",
+    "answer": "Domènec Torrent",
+    "alternates": [
+      "Torrent",
+      "Domenec Torrent"
+    ]
+  },
+  {
+    "id": "d11",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'de forma giyen Faslı sağ bek Nabil ___.",
+    "answer": "Nabil Dirar",
+    "alternates": [
+      "Dirar"
+    ]
+  },
+  {
     "id": "e1",
     "letter": "E",
     "rule": "starts",
@@ -664,6 +910,41 @@
     "alternates": [
       "Haaland",
       "Erling"
+    ]
+  },
+  {
+    "id": "e9",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Kayseri'nin ikinci kulübü; 2007 Türkiye Kupası finalinde Beşiktaş'a kaybetti.",
+    "answer": "Erciyesspor",
+    "alternates": [
+      "Kayseri Erciyesspor"
+    ]
+  },
+  {
+    "id": "e10",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2014 Türkiye Kupası finalinde Galatasaray'a kaybeden Anadolu kulübü.",
+    "answer": "Eskişehirspor",
+    "alternates": [
+      "Eskisehirspor",
+      "Eskişehir"
+    ]
+  },
+  {
+    "id": "e11",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Kerem Aktürkoğlu'nun 2020'de Galatasaray'a transfer olduğu, o dönem alt ligde oynayan kulüp: 24 ___.",
+    "answer": "Erzincanspor",
+    "alternates": [
+      "24 Erzincanspor",
+      "Erzincan"
     ]
   },
   {
@@ -777,6 +1058,24 @@
     "alternates": []
   },
   {
+    "id": "f11",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Mario Gómez'in 2015-16'da Beşiktaş'a kiralandığı İtalyan kulübü.",
+    "answer": "Fiorentina",
+    "alternates": []
+  },
+  {
+    "id": "f12",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fatih Terim'in 2000'lerin başında çalıştırdığı iki İtalyan kulübünden biri; diğeri Milan.",
+    "answer": "Fiorentina",
+    "alternates": []
+  },
+  {
     "id": "g1",
     "letter": "G",
     "rule": "starts",
@@ -862,6 +1161,41 @@
     "alternates": [
       "Georgia",
       "Gurcistan"
+    ]
+  },
+  {
+    "id": "g9",
+    "letter": "G",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2001'de Türkiye Kupası finalinde Fenerbahçe'yi penaltılarla yenen Ankara kulübü.",
+    "answer": "Gençlerbirliği",
+    "alternates": [
+      "Genclerbirligi",
+      "Gençler"
+    ]
+  },
+  {
+    "id": "g10",
+    "letter": "G",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2003 ve 2004 Türkiye Kupası finallerinde Trabzonspor'a kaybeden Ankara kulübü.",
+    "answer": "Gençlerbirliği",
+    "alternates": [
+      "Genclerbirligi",
+      "Gençler"
+    ]
+  },
+  {
+    "id": "g11",
+    "letter": "G",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2014-15'te Galatasaray'da oynayan, Inter ile 2010'da Şampiyonlar Ligi kazanmış Makedon forvet ___ Pandev.",
+    "answer": "Goran Pandev",
+    "alternates": [
+      "Pandev"
     ]
   },
   {
@@ -978,6 +1312,76 @@
     "alternates": [
       "Hattrick",
       "Hat trick"
+    ]
+  },
+  {
+    "id": "h11",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Trabzonspor'u 2020'de Türkiye Kupası şampiyonluğuna taşıyan teknik direktör.",
+    "answer": "Hüseyin Çimşir",
+    "alternates": [
+      "Çimşir",
+      "Cimsir"
+    ]
+  },
+  {
+    "id": "h12",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ı 2011 Türkiye Kupası şampiyonluğuna taşıyan teknik direktör Tayfur ___.",
+    "answer": "Tayfur Havutçu",
+    "alternates": [
+      "Havutçu",
+      "Havutcu"
+    ]
+  },
+  {
+    "id": "h13",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2002 Dünya Kupası'nın yıldızlarından, Galatasaray'ın sol ayaklı kanadı.",
+    "answer": "Hasan Şaş",
+    "alternates": [
+      "Şaş",
+      "Sas",
+      "Hasan Sas"
+    ]
+  },
+  {
+    "id": "h14",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ta 2011-2015 arası forma giyen Portekizli golcü ___ Almeida.",
+    "answer": "Hugo Almeida",
+    "alternates": [
+      "Almeida"
+    ]
+  },
+  {
+    "id": "h15",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı teknik direktör olarak 2005 Türkiye Kupası finalinde Fenerbahçe'yi 5-1 yenerek şampiyon yapan Rumen efsane.",
+    "answer": "Gheorghe Hagi",
+    "alternates": [
+      "Hagi"
+    ]
+  },
+  {
+    "id": "h16",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Denizlispor'un lakabı.",
+    "answer": "Horozlar",
+    "alternates": [
+      "Horoz"
     ]
   },
   {
@@ -1111,6 +1515,54 @@
     ]
   },
   {
+    "id": "i12",
+    "letter": "I",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Emre Belözoğlu ve Hakan Şükür'ün 2000'lerin başında transfer olduğu Milano kulübü.",
+    "answer": "Inter",
+    "alternates": [
+      "Internazionale",
+      "Inter Milan"
+    ]
+  },
+  {
+    "id": "i13",
+    "letter": "I",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Wesley Sneijder'in 2013'te Galatasaray'a geldiği İtalyan kulübü.",
+    "answer": "Inter",
+    "alternates": [
+      "Internazionale",
+      "Inter Milan"
+    ]
+  },
+  {
+    "id": "i14",
+    "letter": "I",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2022'de Beşiktaş'ı kısa süre çalıştıran Fransız teknik direktör Valérien ___.",
+    "answer": "Valérien Ismaël",
+    "alternates": [
+      "Ismael",
+      "Ismaël"
+    ]
+  },
+  {
+    "id": "i15",
+    "letter": "I",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Başakşehir'in 2014'e kadar kullandığı İstanbul Büyükşehir Belediyespor adının kısaltması.",
+    "answer": "İBB",
+    "alternates": [
+      "IBB",
+      "İstanbul BB"
+    ]
+  },
+  {
     "id": "j1",
     "letter": "J",
     "rule": "starts",
@@ -1153,6 +1605,63 @@
     "answer": "Juventus",
     "alternates": [
       "Juve"
+    ]
+  },
+  {
+    "id": "j5",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fulham'dan kiralanarak 2019-20'de Galatasaray'da oynayan Fildişili orta saha Jean Michaël ___.",
+    "answer": "Jean Michaël Seri",
+    "alternates": [
+      "Seri",
+      "Jean Michael Seri"
+    ]
+  },
+  {
+    "id": "j6",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ın 2014-2016 arası Arjantinli orta sahası ___ Sosa.",
+    "answer": "José Sosa",
+    "alternates": [
+      "Sosa",
+      "Jose Sosa"
+    ]
+  },
+  {
+    "id": "j7",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe ve Beşiktaş formaları giyen Hollandalı kanat ___ Lens.",
+    "answer": "Jeremain Lens",
+    "alternates": [
+      "Lens"
+    ]
+  },
+  {
+    "id": "j8",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "İsveç milli takımında oynamış, Galatasaray'da forma giyen Süryani kökenli kanat Jimmy ___.",
+    "answer": "Jimmy Durmaz",
+    "alternates": [
+      "Durmaz"
+    ]
+  },
+  {
+    "id": "j9",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ı 2006 ve 2007'de üst üste Türkiye Kupası şampiyonluğuna taşıyan Fransız teknik direktör ___ Tigana.",
+    "answer": "Jean Tigana",
+    "alternates": [
+      "Tigana"
     ]
   },
   {
@@ -1317,6 +1826,75 @@
     ]
   },
   {
+    "id": "k15",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Kayserispor'u 2008'de Türkiye Kupası şampiyonluğuna taşıyan teknik direktör Tolunay ___.",
+    "answer": "Tolunay Kafkas",
+    "alternates": [
+      "Kafkas"
+    ]
+  },
+  {
+    "id": "k16",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2022 Türkiye Kupası finalinde Sivasspor'a kaybeden kulüp.",
+    "answer": "Kayserispor",
+    "alternates": [
+      "Kayseri"
+    ]
+  },
+  {
+    "id": "k17",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Abdülkerim Bardakcı'nın Galatasaray'a transfer olmadan önce oynadığı Anadolu kulübü.",
+    "answer": "Konyaspor",
+    "alternates": [
+      "Konya"
+    ]
+  },
+  {
+    "id": "k18",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Trabzonspor'un uzun yıllar kalesini koruyan milli kaleci Onur ___.",
+    "answer": "Onur Kıvrak",
+    "alternates": [
+      "Kıvrak",
+      "Kivrak"
+    ]
+  },
+  {
+    "id": "k19",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Eskişehirspor'un lakabı.",
+    "answer": "Kırmızı Şimşekler",
+    "alternates": [
+      "Kirmizi Simsekler",
+      "Şimşekler"
+    ]
+  },
+  {
+    "id": "k20",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Trabzonspor'un lakabı.",
+    "answer": "Karadeniz Fırtınası",
+    "alternates": [
+      "Karadeniz Firtinasi",
+      "Fırtına"
+    ]
+  },
+  {
     "id": "l1",
     "letter": "L",
     "rule": "starts",
@@ -1389,6 +1967,57 @@
     "answer": "Lionel Messi",
     "alternates": [
       "Messi"
+    ]
+  },
+  {
+    "id": "l8",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Moussa Sow'un ve Burak Yılmaz'ın forma giydiği Fransız kulübü.",
+    "answer": "Lille",
+    "alternates": [
+      "LOSC"
+    ]
+  },
+  {
+    "id": "l9",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ciro Immobile'nin Beşiktaş'a gelmeden önce efsaneleştiği Roma kulübü.",
+    "answer": "Lazio",
+    "alternates": []
+  },
+  {
+    "id": "l10",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ın 2002-03 UEFA Kupası çeyrek finalinde elendiği İtalyan kulübü.",
+    "answer": "Lazio",
+    "alternates": []
+  },
+  {
+    "id": "l11",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2000-01'de Şampiyonlar Ligi çeyrek finaline taşıyan Rumen teknik direktör Mircea ___.",
+    "answer": "Mircea Lucescu",
+    "alternates": [
+      "Lucescu"
+    ]
+  },
+  {
+    "id": "l12",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2000 UEFA Kupası yarı finalinde elediği İngiliz kulübü.",
+    "answer": "Leeds United",
+    "alternates": [
+      "Leeds"
     ]
   },
   {
@@ -1530,6 +2159,85 @@
     ]
   },
   {
+    "id": "m13",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2014'te Türkiye Kupası şampiyonluğuna taşıyan İtalyan teknik direktör Roberto ___.",
+    "answer": "Roberto Mancini",
+    "alternates": [
+      "Mancini"
+    ]
+  },
+  {
+    "id": "m14",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2016'da Türkiye Kupası şampiyonluğuna taşıyan, üç büyüklerle lig şampiyonluğu yaşamış teknik direktör.",
+    "answer": "Mustafa Denizli",
+    "alternates": [
+      "Denizli"
+    ]
+  },
+  {
+    "id": "m15",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Radamel Falcao'nun 2019'da Galatasaray'a geldiği kulüp.",
+    "answer": "Monaco",
+    "alternates": [
+      "AS Monaco",
+      "Monako"
+    ]
+  },
+  {
+    "id": "m16",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Tuncay Şanlı'nın Fenerbahçe'den sonra İngiltere'de forma giydiği ilk kulüp.",
+    "answer": "Middlesbrough",
+    "alternates": [
+      "Boro"
+    ]
+  },
+  {
+    "id": "m17",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fatih Terim'in Fiorentina'dan sonra 2001'de çalıştırdığı İtalyan devi.",
+    "answer": "Milan",
+    "alternates": [
+      "AC Milan"
+    ]
+  },
+  {
+    "id": "m18",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Nicolas Anelka'nın 2005'te Fenerbahçe'ye geldiği İngiliz kulübü.",
+    "answer": "Manchester City",
+    "alternates": [
+      "Man City",
+      "City"
+    ]
+  },
+  {
+    "id": "m19",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2000 UEFA Kupası çeyrek finalinde elediği İspanyol kulübü.",
+    "answer": "Mallorca",
+    "alternates": [
+      "RCD Mallorca"
+    ]
+  },
+  {
     "id": "n1",
     "letter": "N",
     "rule": "starts",
@@ -1580,6 +2288,41 @@
     "question": "Barcelona, PSG ve Santos'ta oynamış Brezilyalı yıldız.",
     "answer": "Neymar",
     "alternates": []
+  },
+  {
+    "id": "n6",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Dortmund'dan kiralık olarak 2007-08'de Fenerbahçe'de oynayan, sonra Antalyaspor'u çalıştıran milli orta saha.",
+    "answer": "Nuri Şahin",
+    "alternates": [
+      "Şahin",
+      "Sahin",
+      "Nuri Sahin"
+    ]
+  },
+  {
+    "id": "n7",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Victor Osimhen'in 2024-25'te Galatasaray'a kiralandığı İtalyan kulübü.",
+    "answer": "Napoli",
+    "alternates": [
+      "SSC Napoli"
+    ]
+  },
+  {
+    "id": "n8",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Dries Mertens'in Galatasaray'a gelmeden önce dokuz yıl oynadığı kulüp.",
+    "answer": "Napoli",
+    "alternates": [
+      "SSC Napoli"
+    ]
   },
   {
     "id": "o1",
@@ -1650,6 +2393,43 @@
     ]
   },
   {
+    "id": "o7",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'yi 2024 Konferans Ligi çeyrek finalinde penaltılarla eleyen Yunan kulübü.",
+    "answer": "Olympiacos",
+    "alternates": [
+      "Olympiakos",
+      "Olimpiakos"
+    ]
+  },
+  {
+    "id": "o8",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ın Almanya doğumlu milli kanat/orta saha oyuncusu ___ Şahan.",
+    "answer": "Olcay Şahan",
+    "alternates": [
+      "Olcay",
+      "Şahan",
+      "Sahan"
+    ]
+  },
+  {
+    "id": "o9",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2016-17'de Avrupa Ligi'nde son 32'ye kalan Ankara kulübü.",
+    "answer": "Osmanlıspor",
+    "alternates": [
+      "Osmanlispor",
+      "Osmanlı"
+    ]
+  },
+  {
     "id": "p1",
     "letter": "P",
     "rule": "starts",
@@ -1712,6 +2492,51 @@
     "answer": "Portekiz",
     "alternates": [
       "Portugal"
+    ]
+  },
+  {
+    "id": "p7",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Barcelona'dan kiralık olarak 2021-22'de Beşiktaş'ta oynayan Bosnalı yıldız Miralem ___.",
+    "answer": "Miralem Pjanić",
+    "alternates": [
+      "Pjanic"
+    ]
+  },
+  {
+    "id": "p8",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2014'te sadece birkaç ay çalıştıran, İtalya'yı Euro 2012 finaline taşımış teknik direktör Cesare ___.",
+    "answer": "Cesare Prandelli",
+    "alternates": [
+      "Prandelli"
+    ]
+  },
+  {
+    "id": "p9",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Mauro Icardi'nin 2022'de Galatasaray'a geldiği Fransız kulübü.",
+    "answer": "Paris Saint-Germain",
+    "alternates": [
+      "PSG",
+      "Paris"
+    ]
+  },
+  {
+    "id": "p10",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Vincent Aboubakar'ın 2016'da Beşiktaş'a kiralandığı Portekiz kulübü.",
+    "answer": "Porto",
+    "alternates": [
+      "FC Porto"
     ]
   },
   {
@@ -1837,6 +2662,61 @@
     "rule": "starts",
     "category": "general",
     "question": "15 Şampiyonlar Ligi kupasıyla rekor sahibi İspanyol kulübü.",
+    "answer": "Real Madrid",
+    "alternates": [
+      "Real"
+    ]
+  },
+  {
+    "id": "r9",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2009-2011 arası çalıştıran, Barcelona'ya Şampiyonlar Ligi kazandırmış Hollandalı Frank ___.",
+    "answer": "Frank Rijkaard",
+    "alternates": [
+      "Rijkaard"
+    ]
+  },
+  {
+    "id": "r10",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2016-17'de çalıştıran Hollandalı teknik direktör Jan Olde ___.",
+    "answer": "Jan Olde Riekerink",
+    "alternates": [
+      "Riekerink"
+    ]
+  },
+  {
+    "id": "r11",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "José Mourinho'nun Fenerbahçe'ye gelmeden önceki son kulübü.",
+    "answer": "Roma",
+    "alternates": [
+      "AS Roma"
+    ]
+  },
+  {
+    "id": "r12",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Nihat Kahveci'nin İspanya'da ilk forma giydiği kulüp.",
+    "answer": "Real Sociedad",
+    "alternates": [
+      "Sociedad"
+    ]
+  },
+  {
+    "id": "r13",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2000-01 Şampiyonlar Ligi çeyrek finalinde elendiği İspanyol kulübü.",
     "answer": "Real Madrid",
     "alternates": [
       "Real"
@@ -2050,6 +2930,41 @@
     ]
   },
   {
+    "id": "s19",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Didier Drogba'nın 2013'te Galatasaray'a geldiği Çin kulübü.",
+    "answer": "Shanghai Shenhua",
+    "alternates": [
+      "Shanghai",
+      "Shenhua"
+    ]
+  },
+  {
+    "id": "s20",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2008-09'da Beşiktaş'ın ardından ikinci olan Anadolu kulübü.",
+    "answer": "Sivasspor",
+    "alternates": [
+      "Sivas"
+    ]
+  },
+  {
+    "id": "s21",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ı 2024'te Türkiye Kupası şampiyonluğuna taşıyan, kulübün eski oyuncusu teknik direktör ___ Topraktepe.",
+    "answer": "Serdar Topraktepe",
+    "alternates": [
+      "Topraktepe",
+      "Serdar"
+    ]
+  },
+  {
     "id": "t1",
     "letter": "T",
     "rule": "starts",
@@ -2151,6 +3066,50 @@
     ]
   },
   {
+    "id": "t10",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'nin yerine 2011-12 Şampiyonlar Ligi'ne katılıp San Siro'da Inter'i 1-0 yenen kulüp.",
+    "answer": "Trabzonspor",
+    "alternates": [
+      "Trabzon"
+    ]
+  },
+  {
+    "id": "t11",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2010-11'de Fenerbahçe ile aynı puanı toplamasına rağmen ikinci olan Karadeniz kulübü.",
+    "answer": "Trabzonspor",
+    "alternates": [
+      "Trabzon"
+    ]
+  },
+  {
+    "id": "t12",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2017'de kısa süre çalıştıran Hırvat teknik direktör Igor ___.",
+    "answer": "Igor Tudor",
+    "alternates": [
+      "Tudor"
+    ]
+  },
+  {
+    "id": "t13",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2024 ve 2025 Türkiye Kupası finallerini kaybeden Karadeniz kulübü.",
+    "answer": "Trabzonspor",
+    "alternates": [
+      "Trabzon"
+    ]
+  },
+  {
     "id": "u1",
     "letter": "U",
     "rule": "starts",
@@ -2207,6 +3166,42 @@
     "question": "Avrupa futbolunun yönetim kurulu.",
     "answer": "UEFA",
     "alternates": []
+  },
+  {
+    "id": "u6",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Trabzonspor, Toulouse ve Galatasaray'da oynayan milli golcü ___ Bulut.",
+    "answer": "Umut Bulut",
+    "alternates": [
+      "Bulut",
+      "Umut"
+    ]
+  },
+  {
+    "id": "u7",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2000'lerde Galatasaray'ın golcülerinden, Gençlerbirliği'nden gelen ___ Karan.",
+    "answer": "Ümit Karan",
+    "alternates": [
+      "Karan",
+      "Umit Karan"
+    ]
+  },
+  {
+    "id": "u8",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2022-23'te ilk kez Süper Lig'de oynayıp bir sezon sonra düşen İstanbul kulübü.",
+    "answer": "Ümraniyespor",
+    "alternates": [
+      "Umraniyespor",
+      "Ümraniye"
+    ]
   },
   {
     "id": "v1",
@@ -2291,6 +3286,41 @@
     ]
   },
   {
+    "id": "v8",
+    "letter": "V",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ta uzun yıllar forma giyen Avusturyalı-Türk orta saha ___ Kavlak.",
+    "answer": "Veli Kavlak",
+    "alternates": [
+      "Kavlak",
+      "Veli"
+    ]
+  },
+  {
+    "id": "v9",
+    "letter": "V",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Bursaspor'un 2010 şampiyonluğundaki hızlı milli kanadı ___ Şen.",
+    "answer": "Volkan Şen",
+    "alternates": [
+      "Volkan Sen",
+      "Şen"
+    ]
+  },
+  {
+    "id": "v10",
+    "letter": "V",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Başakşehir'in 2020 şampiyonluğundaki kalecisi ___ Babacan.",
+    "answer": "Volkan Babacan",
+    "alternates": [
+      "Babacan"
+    ]
+  },
+  {
     "id": "w1",
     "letter": "W",
     "rule": "starts",
@@ -2355,6 +3385,28 @@
     "answer": "George Weah",
     "alternates": [
       "Weah"
+    ]
+  },
+  {
+    "id": "w7",
+    "letter": "W",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Burnley'den kiralanarak 2022-23'te Beşiktaş'ta oynayan Hollandalı golcü Wout ___.",
+    "answer": "Wout Weghorst",
+    "alternates": [
+      "Weghorst"
+    ]
+  },
+  {
+    "id": "w8",
+    "letter": "W",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Başakşehir ve Fenerbahçe'de oynayan Kamerunlu golcü Pierre ___.",
+    "answer": "Pierre Webó",
+    "alternates": [
+      "Webo"
     ]
   },
   {
@@ -2425,6 +3477,28 @@
     "alternates": [
       "Alonso",
       "Xabi"
+    ]
+  },
+  {
+    "id": "x7",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "2014-15'te Galatasaray'da oynayıp sonra Porto ve Manchester United'a giden Brezilyalı sol bek.",
+    "answer": "Alex Telles",
+    "alternates": [
+      "Telles"
+    ]
+  },
+  {
+    "id": "x8",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "Fenerbahçe'ye 2023'te gelen Ganalı stoper Alexander ___.",
+    "answer": "Alexander Djiku",
+    "alternates": [
+      "Djiku"
     ]
   },
   {
@@ -2501,6 +3575,29 @@
     ]
   },
   {
+    "id": "y7",
+    "letter": "Y",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2017-2021 arası Faslı ofansif orta sahası ___ Belhanda.",
+    "answer": "Younès Belhanda",
+    "alternates": [
+      "Belhanda",
+      "Younes Belhanda"
+    ]
+  },
+  {
+    "id": "y8",
+    "letter": "Y",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2020-21'de Galatasaray'da oynayan Amerikalı sağ bek DeAndre ___.",
+    "answer": "DeAndre Yedlin",
+    "alternates": [
+      "Yedlin"
+    ]
+  },
+  {
     "id": "z1",
     "letter": "Z",
     "rule": "starts",
@@ -2566,6 +3663,17 @@
       "Zlatan",
       "Ibrahimovic",
       "Ibrahimović"
+    ]
+  },
+  {
+    "id": "z7",
+    "letter": "Z",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Asıl adı Arthur Antunes Coimbra olan, Fenerbahçe'yi 2006-07'de şampiyon yapan Brezilyalı efsane.",
+    "answer": "Zico",
+    "alternates": [
+      "Arthur Antunes Coimbra"
     ]
   }
 ]
