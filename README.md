@@ -16,10 +16,12 @@ Modern Süper Lig (2000 sonrası) temalı passaparola oyunu. A–Z, 4 dakika, mo
 
 ## Vercel kurulumu
 
-1. Vercel'de **Add New → Project** ile bu repoyu import et. Framework otomatik olarak Next.js seçilir.
+1. Vercel'de **Add New → Project** ile bu repoyu import et. Framework Preset olarak **Next.js** seç
+   (`main`'de henüz uygulama yokken otomatik algılanmayabilir).
    **Settings → Git → Production Branch** = `main` olduğundan emin ol.
 2. **Storage → Upstash for Redis** (Marketplace) ekle ve projeye bağla. `KV_REST_API_URL` ve
    `KV_REST_API_TOKEN` otomatik eklenir. (Alternatif isimler `UPSTASH_REDIS_REST_URL` / `UPSTASH_REDIS_REST_TOKEN` de çalışır.)
+   EuroLeague sürümüyle aynı veritabanı kullanılabilir: bu oyunun anahtarları `sl:`, EuroLeague'inkiler `pp:` ile başlar.
 3. **Settings → Environment Variables** kısmına `ADMIN_PASSWORD` ekle.
 4. Yeniden deploy et. İlk açılışta `src/data/seed-questions.json` içindeki sorular Redis'e yüklenir;
    bundan sonra kaynak Redis'tir, admin panelindeki değişiklikler anında canlıya yansır.
