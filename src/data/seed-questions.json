@@ -4,7 +4,7 @@
     "letter": "A",
     "rule": "starts",
     "category": "superlig",
-    "question": "Fenerbahçe'nin 2004-2012 arası kaptanlığını da yapan, stadın önüne heykeli dikilen Brezilyalı efsane 10 numara.",
+    "question": "Fenerbahçe'de 2004-2012 arasında oynayıp 2007'den itibaren kaptanlık yapan, taraftarların 2012'de heykelini diktiği Brezilyalı efsane 10 numara.",
     "answer": "Alex de Souza",
     "alternates": [
       "Alex",
@@ -122,28 +122,6 @@
     "question": "Galatasaray'ın 2000 UEFA Kupası finalinde penaltılarla yendiği İngiliz kulübü.",
     "answer": "Arsenal",
     "alternates": []
-  },
-  {
-    "id": "a12",
-    "letter": "A",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Galatasaray'ın 2011'de kapanan tarihi stadı.",
-    "answer": "Ali Sami Yen",
-    "alternates": [
-      "Ali Sami Yen Stadı"
-    ]
-  },
-  {
-    "id": "a13",
-    "letter": "A",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Trabzonspor'un Şenol Güneş Stadyumu'nun bulunduğu semt.",
-    "answer": "Akyazı",
-    "alternates": [
-      "Akyazi"
-    ]
   },
   {
     "id": "a14",
@@ -287,6 +265,74 @@
     "answer": "Aslan",
     "alternates": [
       "Aslanlar"
+    ]
+  },
+  {
+    "id": "a27",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2001-02'de Galatasaray formasıyla İlhan Mansız'la birlikte gol kralı olan golcü.",
+    "answer": "Arif Erdem",
+    "alternates": [
+      "Erdem"
+    ]
+  },
+  {
+    "id": "a28",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2009-10'da Kayserispor formasıyla 21 golle gol kralı olan golcü.",
+    "answer": "Ariza Makukula",
+    "alternates": [
+      "Makukula"
+    ]
+  },
+  {
+    "id": "a29",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2013-14'te Sivasspor formasıyla 17 golle gol kralı olan, 2016'da Fenerbahçe'nin ilk Faslı oyuncusu olan futbolcu.",
+    "answer": "Aatif Chahechouhe",
+    "alternates": [
+      "Chahechouhe",
+      "Aatif"
+    ]
+  },
+  {
+    "id": "a30",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "1998'de ilk kez seçilip 2018'e kadar kesintisiz Fenerbahçe başkanlığı yapan isim.",
+    "answer": "Aziz Yıldırım",
+    "alternates": [
+      "Aziz Yildirim",
+      "Aziz"
+    ]
+  },
+  {
+    "id": "a31",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ünal Aysal'dan önce, 2008-2011 arasında Galatasaray başkanlığı yapan isim.",
+    "answer": "Adnan Polat",
+    "alternates": [
+      "Polat"
+    ]
+  },
+  {
+    "id": "a32",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2025-26 şampiyonluğunu 4-2 yenerek ilan ettiği, maç sonrası sahadan ayrılan rakip Akdeniz kulübü.",
+    "answer": "Antalyaspor",
+    "alternates": [
+      "Antalya"
     ]
   },
   {
@@ -540,6 +586,51 @@
     "alternates": []
   },
   {
+    "id": "b23",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2008-09'da Galatasaray formasıyla 20 golle gol kralı olan Çek golcü.",
+    "answer": "Milan Baroš",
+    "alternates": [
+      "Baros",
+      "Milan Baros"
+    ]
+  },
+  {
+    "id": "b24",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2017-2019 arasında Beşiktaş'ta, 2019-2022 arasında Galatasaray'da oynayan Hollandalı kanat Ryan ___.",
+    "answer": "Ryan Babel",
+    "alternates": [
+      "Babel"
+    ]
+  },
+  {
+    "id": "b25",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ı 2010-11 sezonunda çalıştırıp Mart 2011'de istifa eden, Real Madrid'in eski Alman teknik direktörü.",
+    "answer": "Bernd Schuster",
+    "alternates": [
+      "Schuster"
+    ]
+  },
+  {
+    "id": "b26",
+    "letter": "B",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ı 2022-23'ten 2025-26'ya üst üste dört kez şampiyon yaparak Fatih Terim'in 1996-2000 serisine ortak olan teknik direktör.",
+    "answer": "Okan Buruk",
+    "alternates": [
+      "Buruk"
+    ]
+  },
+  {
     "id": "c1",
     "letter": "C",
     "rule": "starts",
@@ -695,6 +786,53 @@
     "alternates": []
   },
   {
+    "id": "c15",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Karl Heinz Feldkamp'ın Nisan 2008'de istifasının ardından Galatasaray'ın başına geçip son altı maçı kazanarak şampiyonluğu yaşayan teknik direktör.",
+    "answer": "Cevat Güler",
+    "alternates": [
+      "Güler",
+      "Guler",
+      "Cevat Guler"
+    ]
+  },
+  {
+    "id": "c16",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'den 2016'da Inter'e gidip aynı sezon Beşiktaş'a kiralanan, sonra Fenerbahçe'ye geri dönen milli sol bek.",
+    "answer": "Caner Erkin",
+    "alternates": [
+      "Erkin"
+    ]
+  },
+  {
+    "id": "c17",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Benfica'dan gelip 2014-2016 arasında Trabzonspor'da oynayan Paraguaylı golcü.",
+    "answer": "Óscar Cardozo",
+    "alternates": [
+      "Cardozo",
+      "Oscar Cardozo"
+    ]
+  },
+  {
+    "id": "c18",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'ı 2011-12 sezonunda çalıştıran Portekizli teknik direktör.",
+    "answer": "Carlos Carvalhal",
+    "alternates": [
+      "Carvalhal"
+    ]
+  },
+  {
     "id": "d1",
     "letter": "D",
     "rule": "starts",
@@ -745,17 +883,6 @@
     "answer": "Mbaye Diagne",
     "alternates": [
       "Diagne"
-    ]
-  },
-  {
-    "id": "d6",
-    "letter": "D",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Beşiktaş'ın İnönü Stadı'nın ve bugünkü stadının bulunduğu semt.",
-    "answer": "Dolmabahçe",
-    "alternates": [
-      "Dolmabahce"
     ]
   },
   {
@@ -813,6 +940,44 @@
     "answer": "Nabil Dirar",
     "alternates": [
       "Dirar"
+    ]
+  },
+  {
+    "id": "d12",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2007-08'de Mallorca ile La Liga gol kralı olup İspanya ile Euro 2008'i kazandıktan sonra Fenerbahçe'ye gelen golcü.",
+    "answer": "Daniel Güiza",
+    "alternates": [
+      "Güiza",
+      "Guiza",
+      "Dani Güiza",
+      "Dani Guiza"
+    ]
+  },
+  {
+    "id": "d13",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2006-2010 arasında Fenerbahçe'de forma giyen Brezilyalı forvet; tam adı ___ de Souza.",
+    "answer": "Deivid",
+    "alternates": [
+      "Deivid de Souza"
+    ]
+  },
+  {
+    "id": "d14",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Başakşehir'in 2020'de Manchester United'ı 2-1 yendiği maçta Juan Mata'dan topu kapıp ikinci golü başlatan milli orta saha.",
+    "answer": "Deniz Türüç",
+    "alternates": [
+      "Türüç",
+      "Turuc",
+      "Deniz Turuc"
     ]
   },
   {
@@ -948,6 +1113,51 @@
     ]
   },
   {
+    "id": "e12",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'den 2011'de Spartak Moskova'ya gidip 2013'te geri dönen Nijeryalı golcü.",
+    "answer": "Emmanuel Emenike",
+    "alternates": [
+      "Emenike"
+    ]
+  },
+  {
+    "id": "e13",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'den 2019'da yaklaşık 16 milyon euroya Napoli'ye transfer olan Kuzey Makedonyalı orta saha.",
+    "answer": "Eljif Elmas",
+    "alternates": [
+      "Elmas"
+    ]
+  },
+  {
+    "id": "e14",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2025-26'da Başakşehir formasıyla Paul Onuachu ile gol krallığını paylaşan Özbek golcü.",
+    "answer": "Eldor Shomurodov",
+    "alternates": [
+      "Shomurodov"
+    ]
+  },
+  {
+    "id": "e15",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ryan Babel'in 2022'de Galatasaray'dan ayrıldıktan sonra katıldığı, o dönem 1. Lig'de oynayan İstanbul kulübü.",
+    "answer": "Eyüpspor",
+    "alternates": [
+      "Eyupspor",
+      "Eyüp"
+    ]
+  },
+  {
     "id": "f1",
     "letter": "F",
     "rule": "starts",
@@ -1002,17 +1212,6 @@
     "alternates": [
       "Kadıoğlu",
       "Kadioglu"
-    ]
-  },
-  {
-    "id": "f6",
-    "letter": "F",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Başakşehir'in iç saha maçlarını oynadığı, adını ünlü bir teknik direktörden alan stadyum.",
-    "answer": "Fatih Terim Stadyumu",
-    "alternates": [
-      "Fatih Terim Stadı"
     ]
   },
   {
@@ -1074,6 +1273,48 @@
     "question": "Fatih Terim'in 2000'lerin başında çalıştırdığı iki İtalyan kulübünden biri; diğeri Milan.",
     "answer": "Fiorentina",
     "alternates": []
+  },
+  {
+    "id": "f13",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2014-15'te Bursaspor formasıyla 22 golle gol kralı olan, ardından Fenerbahçe'ye geçen Brezilyalı santrfor.",
+    "answer": "Fernandão",
+    "alternates": [
+      "Fernandao"
+    ]
+  },
+  {
+    "id": "f14",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2011'de Juventus'tan kiralanıp 2013'te bonservisi alınan, Galatasaray'da dört sezonda sekiz kupa kazanan Brezilyalı orta saha.",
+    "answer": "Felipe Melo",
+    "alternates": [
+      "Melo"
+    ]
+  },
+  {
+    "id": "f15",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2023'te Manchester United'dan Fenerbahçe'ye transfer olan Brezilyalı orta saha.",
+    "answer": "Fred",
+    "alternates": []
+  },
+  {
+    "id": "f16",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Yıldırım Demirören'in ardından 2012-2019 arasında Beşiktaş başkanlığı yapan isim.",
+    "answer": "Fikret Orman",
+    "alternates": [
+      "Orman"
+    ]
   },
   {
     "id": "g1",
@@ -1196,6 +1437,30 @@
     "answer": "Goran Pandev",
     "alternates": [
       "Pandev"
+    ]
+  },
+  {
+    "id": "g12",
+    "letter": "G",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'de dokuz yıl oynadıktan sonra 2016'da Beşiktaş'a geçen milli sağ bek.",
+    "answer": "Gökhan Gönül",
+    "alternates": [
+      "Gönül",
+      "Gonul",
+      "Gokhan Gonul"
+    ]
+  },
+  {
+    "id": "g13",
+    "letter": "G",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2023-24'te 102 puan ve 33 galibiyetle Süper Lig'in tek sezonda en çok puan rekorunu kıran kulüp.",
+    "answer": "Galatasaray",
+    "alternates": [
+      "Cimbom"
     ]
   },
   {
@@ -1444,18 +1709,6 @@
     ]
   },
   {
-    "id": "i6",
-    "letter": "I",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Beşiktaş'ın 2016'ya kadar kullandığı tarihi stadı.",
-    "answer": "İnönü Stadı",
-    "alternates": [
-      "Inonu",
-      "İnönü"
-    ]
-  },
-  {
     "id": "i7",
     "letter": "I",
     "rule": "starts",
@@ -1563,6 +1816,19 @@
     ]
   },
   {
+    "id": "i16",
+    "letter": "I",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2001-02'de Beşiktaş formasıyla Arif Erdem'le birlikte gol kralı olan, 2002 Dünya Kupası çeyrek finalinde Senegal'e altın golü atan forvet.",
+    "answer": "İlhan Mansız",
+    "alternates": [
+      "Mansız",
+      "Mansiz",
+      "Ilhan Mansiz"
+    ]
+  },
+  {
     "id": "j1",
     "letter": "J",
     "rule": "starts",
@@ -1665,6 +1931,42 @@
     ]
   },
   {
+    "id": "j10",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Chelsea'de uzun yıllar oynadıktan sonra 2019'da Trabzonspor'a imza atan Nijeryalı orta saha.",
+    "answer": "John Obi Mikel",
+    "alternates": [
+      "Mikel",
+      "Obi Mikel",
+      "Mikel John Obi"
+    ]
+  },
+  {
+    "id": "j11",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2022'de Watford'dan Fenerbahçe'ye gelen Norveçli forvet.",
+    "answer": "Joshua King",
+    "alternates": [
+      "King"
+    ]
+  },
+  {
+    "id": "j12",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fenerbahçe'de üç yıl oynadıktan sonra Beşiktaş'a geçip Kadıköy derbisinde iki gol atan Brezilyalı orta saha.",
+    "answer": "Josef de Souza",
+    "alternates": [
+      "Josef",
+      "de Souza"
+    ]
+  },
+  {
     "id": "k1",
     "letter": "K",
     "rule": "starts",
@@ -1719,17 +2021,6 @@
     "answer": "Kocaelispor",
     "alternates": [
       "Kocaeli"
-    ]
-  },
-  {
-    "id": "k6",
-    "letter": "K",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Fenerbahçe'nin stadının bulunduğu İstanbul ilçesi.",
-    "answer": "Kadıköy",
-    "alternates": [
-      "Kadikoy"
     ]
   },
   {
@@ -1895,6 +2186,17 @@
     ]
   },
   {
+    "id": "k21",
+    "letter": "K",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2026 Türkiye Kupası finalinde Trabzonspor'a 2-1 yenilen 'Anadolu Kartalı'.",
+    "answer": "Konyaspor",
+    "alternates": [
+      "Konya"
+    ]
+  },
+  {
     "id": "l1",
     "letter": "L",
     "rule": "starts",
@@ -2019,6 +2321,15 @@
     "alternates": [
       "Leeds"
     ]
+  },
+  {
+    "id": "l13",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2007'de Schalke 04'ten gelip 2009'a kadar Galatasaray'da 10 numaralı formayı giyen Brezilyalı ofansif orta saha.",
+    "answer": "Lincoln",
+    "alternates": []
   },
   {
     "id": "m1",
@@ -2325,6 +2636,54 @@
     ]
   },
   {
+    "id": "n9",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2006'da Türk vatandaşlığına geçip adını Marcio'dan değiştiren, Fenerbahçe ve Beşiktaş'ta oynamış Brezilya doğumlu golcü.",
+    "answer": "Mert Nobre",
+    "alternates": [
+      "Nobre",
+      "Mert"
+    ]
+  },
+  {
+    "id": "n10",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Tüm profesyonel kariyerini Beşiktaş'ta geçirip 2026'da futbolu bırakan, son yıllarında kaptanlık yapan orta saha.",
+    "answer": "Necip Uysal",
+    "alternates": [
+      "Necip",
+      "Uysal"
+    ]
+  },
+  {
+    "id": "n11",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2007-2010 arasında Galatasaray'da forma giyen Kongolu golcü Shabani ___.",
+    "answer": "Shabani Nonda",
+    "alternates": [
+      "Nonda"
+    ]
+  },
+  {
+    "id": "n12",
+    "letter": "N",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2023'te Arsenal'den Trabzonspor'a transfer olan Fildişili kanat.",
+    "answer": "Nicolas Pépé",
+    "alternates": [
+      "Pépé",
+      "Pepe",
+      "Nicolas Pepe"
+    ]
+  },
+  {
     "id": "o1",
     "letter": "O",
     "rule": "starts",
@@ -2427,6 +2786,52 @@
     "alternates": [
       "Osmanlispor",
       "Osmanlı"
+    ]
+  },
+  {
+    "id": "o10",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2000'lerin başında Bursaspor formasıyla iki kez Süper Lig gol kralı olan golcü.",
+    "answer": "Okan Yılmaz",
+    "alternates": [
+      "Okan Yilmaz"
+    ]
+  },
+  {
+    "id": "o11",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2015'te Bursaspor'dan Fenerbahçe'ye transfer olan, Şenol Güneş'in Beşiktaş'ına gitmesi beklenen milli orta saha.",
+    "answer": "Ozan Tufan",
+    "alternates": [
+      "Tufan"
+    ]
+  },
+  {
+    "id": "o12",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2025'te Benfica'dan kiralık ve zorunlu satın alma opsiyonuyla Beşiktaş'a gelen milli orta saha.",
+    "answer": "Orkun Kökçü",
+    "alternates": [
+      "Kökçü",
+      "Kokcu",
+      "Orkun Kokcu"
+    ]
+  },
+  {
+    "id": "o13",
+    "letter": "O",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2026 Türkiye Kupası finalinde Konyaspor'a attığı gollerle Trabzonspor'a kupayı getiren, aynı sezon gol krallığını paylaşan Nijeryalı dev golcü.",
+    "answer": "Paul Onuachu",
+    "alternates": [
+      "Onuachu"
     ]
   },
   {
@@ -2540,6 +2945,30 @@
     ]
   },
   {
+    "id": "p11",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2023-24 sezonunda Süper Lig'de oynayıp 19. sırada küme düşen İstanbul kulübü.",
+    "answer": "Pendikspor",
+    "alternates": [
+      "Pendik"
+    ]
+  },
+  {
+    "id": "p12",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Alanyaspor'dan 2020'de Fenerbahçe'ye transfer olan, Newcastle United'ın eski Senegalli golcüsü.",
+    "answer": "Papiss Cissé",
+    "alternates": [
+      "Cisse",
+      "Cissé",
+      "Papiss Cisse"
+    ]
+  },
+  {
     "id": "q1",
     "letter": "Q",
     "rule": "starts",
@@ -2572,6 +3001,30 @@
       "Qarabag",
       "Karabağ",
       "Karabag"
+    ]
+  },
+  {
+    "id": "q4",
+    "letter": "Q",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "Çaykur Rizespor'dan 2019'da Fenerbahçe'ye, 2020'de yaklaşık 21 milyon euroya Lazio'ya transfer olan Kosovalı golcü.",
+    "answer": "Vedat Muriqi",
+    "alternates": [
+      "Muriqi",
+      "Muriç",
+      "Vedat Muric"
+    ]
+  },
+  {
+    "id": "q5",
+    "letter": "Q",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş'tan ayrıldıktan sonra Ağustos 2019'da Kasımpaşa'ya imza atan Portekizli kanat.",
+    "answer": "Ricardo Quaresma",
+    "alternates": [
+      "Quaresma"
     ]
   },
   {
@@ -2619,18 +3072,6 @@
       "van Persie",
       "Persie",
       "RVP"
-    ]
-  },
-  {
-    "id": "r5",
-    "letter": "R",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Galatasaray'ın 2011'de açılan stadının bugünkü sponsor adı: ___ Park.",
-    "answer": "Rams Park",
-    "alternates": [
-      "Rams",
-      "RAMS Park"
     ]
   },
   {
@@ -2723,6 +3164,17 @@
     ]
   },
   {
+    "id": "r14",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2004-2008 arasında Galatasaray'da, 2008-2010 arasında Trabzonspor'da oynayan Kamerunlu stoper.",
+    "answer": "Rigobert Song",
+    "alternates": [
+      "Song"
+    ]
+  },
+  {
     "id": "s1",
     "letter": "S",
     "rule": "starts",
@@ -2808,27 +3260,6 @@
     ]
   },
   {
-    "id": "s8",
-    "letter": "S",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Fenerbahçe'nin stadının adı: Şükrü ___.",
-    "answer": "Saracoğlu",
-    "alternates": [
-      "Şükrü Saracoğlu",
-      "Saracoglu"
-    ]
-  },
-  {
-    "id": "s9",
-    "letter": "S",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Galatasaray'ın stadının bulunduğu semt.",
-    "answer": "Seyrantepe",
-    "alternates": []
-  },
-  {
     "id": "s10",
     "letter": "S",
     "rule": "starts",
@@ -2870,18 +3301,6 @@
     "alternates": [
       "Sarı Lacivert",
       "Sari Lacivert"
-    ]
-  },
-  {
-    "id": "s14",
-    "letter": "S",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Trabzonspor'un iç saha maçlarını oynadığı, adını efsane bir teknik direktörden alan stadyum.",
-    "answer": "Şenol Güneş Stadyumu",
-    "alternates": [
-      "Şenol Güneş",
-      "Papara Park"
     ]
   },
   {
@@ -2965,6 +3384,44 @@
     ]
   },
   {
+    "id": "s22",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2007-08'de Fenerbahçe formasıyla 17 golle gol kralı olan, 'Nöbetçi Golcü' lakaplı forvet.",
+    "answer": "Semih Şentürk",
+    "alternates": [
+      "Şentürk",
+      "Senturk",
+      "Semih Senturk"
+    ]
+  },
+  {
+    "id": "s23",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Atalanta'dan ayrılıp 2019'da Başakşehir'e gelen ve ilk sezonunda şampiyonluk yaşayan Liverpool'un eski Slovak stoperi.",
+    "answer": "Martin Škrtel",
+    "alternates": [
+      "Skrtel",
+      "Martin Skrtel"
+    ]
+  },
+  {
+    "id": "s24",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "3 Temmuz 2011'de başlayan ve Fenerbahçe'nin 2011-12 Şampiyonlar Ligi'nden men edilmesine yol açan soruşturmanın halk arasındaki adı.",
+    "answer": "Şike",
+    "alternates": [
+      "Sike",
+      "Şike davası",
+      "Şike soruşturması"
+    ]
+  },
+  {
     "id": "t1",
     "letter": "T",
     "rule": "starts",
@@ -3019,17 +3476,6 @@
       "Tuncay",
       "Şanlı",
       "Sanli"
-    ]
-  },
-  {
-    "id": "t6",
-    "letter": "T",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Bursaspor'un timsah şeklindeki stadı.",
-    "answer": "Timsah Arena",
-    "alternates": [
-      "Timsah"
     ]
   },
   {
@@ -3110,6 +3556,41 @@
     ]
   },
   {
+    "id": "t14",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Beşiktaş ile 2002-03'te, 2006'da geçtiği Fenerbahçe ile 2006-07'de şampiyon olan milli kanat oyuncusu.",
+    "answer": "Tümer Metin",
+    "alternates": [
+      "Tümer",
+      "Tumer Metin",
+      "Metin"
+    ]
+  },
+  {
+    "id": "t15",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2025-26'da Fenerbahçe formasıyla 19 golle gol krallığı yarışında üçüncü olan, daha önce Beşiktaş'ta da oynamış Brezilyalı.",
+    "answer": "Anderson Talisca",
+    "alternates": [
+      "Talisca"
+    ]
+  },
+  {
+    "id": "t16",
+    "letter": "T",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2026 Türkiye Kupası finalinde Konyaspor'u 2-1 yenerek onuncu kupasını kazanan kulüp.",
+    "answer": "Trabzonspor",
+    "alternates": [
+      "Trabzon"
+    ]
+  },
+  {
     "id": "u1",
     "letter": "U",
     "rule": "starts",
@@ -3132,17 +3613,6 @@
     "alternates": [
       "UEFA Cup",
       "UEFA"
-    ]
-  },
-  {
-    "id": "u3",
-    "letter": "U",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Fenerbahçe stadının bir dönem kullandığı sponsor adı: ___ Stadyumu Fenerbahçe Şükrü Saracoğlu.",
-    "answer": "Ülker",
-    "alternates": [
-      "Ulker"
     ]
   },
   {
@@ -3204,6 +3674,63 @@
     ]
   },
   {
+    "id": "u9",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2000 UEFA Kupası finalinde penaltı atan, 2001'de Milan'a transfer olan milli futbolcu.",
+    "answer": "Ümit Davala",
+    "alternates": [
+      "Davala",
+      "Umit Davala"
+    ]
+  },
+  {
+    "id": "u10",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2011-2014 arasında Galatasaray başkanlığı yapan iş insanı.",
+    "answer": "Ünal Aysal",
+    "alternates": [
+      "Aysal",
+      "Unal Aysal"
+    ]
+  },
+  {
+    "id": "u11",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Fernando Muslera, Diego Lugano ve Lucas Torreira'nın ülkesi.",
+    "answer": "Uruguay",
+    "alternates": []
+  },
+  {
+    "id": "u12",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2021-22'de Kasımpaşa formasıyla 20 golle gol kralı olan, 2012-13'ten beri bu ödülü kazanan ilk yerli futbolcu.",
+    "answer": "Umut Bozok",
+    "alternates": [
+      "Bozok"
+    ]
+  },
+  {
+    "id": "u13",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2000'de Monaco'da Real Madrid'i altın golle yenerek kazandığı kupa.",
+    "answer": "UEFA Süper Kupası",
+    "alternates": [
+      "Süper Kupa",
+      "UEFA Super Cup",
+      "Super Cup"
+    ]
+  },
+  {
     "id": "v1",
     "letter": "V",
     "rule": "starts",
@@ -3237,18 +3764,6 @@
     "answer": "Enner Valencia",
     "alternates": [
       "Valencia"
-    ]
-  },
-  {
-    "id": "v4",
-    "letter": "V",
-    "rule": "starts",
-    "category": "superlig",
-    "question": "Beşiktaş'ın 2016'da açılan stadının ilk sponsor adı: ___ Arena.",
-    "answer": "Vodafone",
-    "alternates": [
-      "Vodafone Arena",
-      "Vodafone Park"
     ]
   },
   {
@@ -3318,6 +3833,28 @@
     "answer": "Volkan Babacan",
     "alternates": [
       "Babacan"
+    ]
+  },
+  {
+    "id": "v11",
+    "letter": "V",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2020'de Trabzonspor'a gelip 2021-22'de 38 yıllık şampiyonluk hasretinin sona ermesinde oynayan Brezilyalı stoper.",
+    "answer": "Vitor Hugo",
+    "alternates": [
+      "Vitor"
+    ]
+  },
+  {
+    "id": "v12",
+    "letter": "V",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2021'de Kopenhag'dan yaklaşık 7 milyon euroya Galatasaray'a transfer olan Danimarkalı stoper.",
+    "answer": "Victor Nelsson",
+    "alternates": [
+      "Nelsson"
     ]
   },
   {
@@ -3410,6 +3947,40 @@
     ]
   },
   {
+    "id": "w9",
+    "letter": "W",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2022'de Flamengo'dan Fenerbahçe'ye transfer olan Brezilyalı orta saha.",
+    "answer": "Willian Arão",
+    "alternates": [
+      "Arão",
+      "Arao",
+      "Willian Arao"
+    ]
+  },
+  {
+    "id": "w10",
+    "letter": "W",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Hugo Almeida'nın Ocak 2011'de Beşiktaş'a gelmeden önce oynadığı Alman kulübü.",
+    "answer": "Werder Bremen",
+    "alternates": [
+      "Werder",
+      "Bremen"
+    ]
+  },
+  {
+    "id": "w11",
+    "letter": "W",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Joshua King'in 2022'de Fenerbahçe'ye gelmeden önce oynadığı İngiliz kulübü.",
+    "answer": "Watford",
+    "alternates": []
+  },
+  {
     "id": "x1",
     "letter": "X",
     "rule": "contains",
@@ -3499,6 +4070,52 @@
     "answer": "Alexander Djiku",
     "alternates": [
       "Djiku"
+    ]
+  },
+  {
+    "id": "x9",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "2022'de Valencia'dan Trabzonspor'a transfer olan Uruguaylı santrfor.",
+    "answer": "Maxi Gómez",
+    "alternates": [
+      "Maxi Gomez",
+      "Gómez",
+      "Gomez"
+    ]
+  },
+  {
+    "id": "x10",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "2016'da Jiangsu Suning'e rekor bonservisle giden, 2021'de Beşiktaş'a imza atan Brezilyalı.",
+    "answer": "Alex Teixeira",
+    "alternates": [
+      "Teixeira"
+    ]
+  },
+  {
+    "id": "x11",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "Sivasspor'un 2022 Türkiye Kupası finalinde Kayserispor'a gol atan Fildişili kanat.",
+    "answer": "Max Gradel",
+    "alternates": [
+      "Gradel"
+    ]
+  },
+  {
+    "id": "x12",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "Gaziantep FK formasıyla öne çıkan, bir dönem Beşiktaş'a da kiralanan Rumen ofansif orta saha.",
+    "answer": "Alexandru Maxim",
+    "alternates": [
+      "Maxim"
     ]
   },
   {
@@ -3598,6 +4215,42 @@
     ]
   },
   {
+    "id": "y9",
+    "letter": "Y",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2004-2012 arasında Beşiktaş başkanlığı, 2012-2019 arasında TFF başkanlığı yapan isim.",
+    "answer": "Yıldırım Demirören",
+    "alternates": [
+      "Demirören",
+      "Demiroren",
+      "Yildirim Demiroren"
+    ]
+  },
+  {
+    "id": "y10",
+    "letter": "Y",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2017-18'de ilk kez Süper Lig'e çıkan, Avrupa kupalarında da oynayan ve 2021-22'de son sırada küme düşen Malatya kulübü.",
+    "answer": "Yeni Malatyaspor",
+    "alternates": [
+      "Malatyaspor",
+      "Yeni Malatya"
+    ]
+  },
+  {
+    "id": "y11",
+    "letter": "Y",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Barcelona'daki kiralık döneminin ardından 2022'de Rapid Wien'den Galatasaray'a transfer olan Avusturyalı genç.",
+    "answer": "Yusuf Demir",
+    "alternates": [
+      "Demir"
+    ]
+  },
+  {
     "id": "z1",
     "letter": "Z",
     "rule": "starts",
@@ -3674,6 +4327,17 @@
     "answer": "Zico",
     "alternates": [
       "Arthur Antunes Coimbra"
+    ]
+  },
+  {
+    "id": "z8",
+    "letter": "Z",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2003-04'te Konyaspor formasıyla 25 golle gol kralı olan golcü.",
+    "answer": "Zafer Biryol",
+    "alternates": [
+      "Biryol"
     ]
   }
 ]

@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 import { Redis } from "@upstash/redis";
 import seed from "@/data/seed-questions.json";
 import seedFixes from "@/data/seed-fixes.json";
+import seedRemoved from "@/data/seed-removed.json";
 import type { Question } from "./types";
 
 const HASH = "sl:questions";
@@ -20,11 +21,15 @@ interface SeedFix {
   to: string;
 }
 const fixList = seedFixes as SeedFix[];
+// Default questions taken out of the seed. Deleted from a database only while
+// their text is unchanged, so a question edited in the admin panel stays.
+const removedList = seedRemoved as { id: string; question: string }[];
 // Changes whenever questions are added to the seed file, so new defaults get
 // merged into an existing database without touching edited or deleted ones.
 const seedVersion = `v2-${createHash("sha1")
   .update(seedList.map((q) => `${q.id}:${q.category}`).join(","))
   .update(JSON.stringify(fixList))
+  .update(JSON.stringify(removedList))
   .digest("hex")}`;
 
 // Entries saved before categories existed count as Süper Lig questions.
@@ -97,6 +102,14 @@ async function ensureSeeded(r: Redis) {
       if (q && q[f.field] === f.from) patch[f.id] = { ...q, [f.field]: f.to };
     }
     if (Object.keys(patch).length) await r.hset(HASH, patch);
+  }
+  if (removedList.length) {
+    const stored = (await r.hmget<Record<string, Question | null>>(HASH, ...removedList.map((x) => x.id))) ?? {};
+    const drop = removedList.filter((x) => stored[x.id]?.question === x.question).map((x) => x.id);
+    if (drop.length) {
+      await r.hdel(HASH, ...drop);
+      await r.sadd(DELETED, drop[0], ...drop.slice(1));
+    }
   }
   await r.set(SEED_VERSION, seedVersion);
 }

@@ -25,6 +25,8 @@ Modern Süper Lig (2000 sonrası) temalı passaparola oyunu. A–Z, 4 dakika, mo
 3. **Settings → Environment Variables** kısmına `ADMIN_PASSWORD` ekle.
 4. Yeniden deploy et. İlk açılışta `src/data/seed-questions.json` içindeki sorular Redis'e yüklenir;
    bundan sonra kaynak Redis'tir, admin panelindeki değişiklikler anında canlıya yansır.
+   Varsayılan sorulara sonradan yapılan düzeltmeler (`seed-fixes.json`) ve kaldırılan sorular
+   (`seed-removed.json`) deploy sonrası Redis'e uygulanır; admin panelinden düzenlenmiş sorulara dokunulmaz.
 
 Redis bağlı değilse uygulama yine çalışır ama sorular bellekte tutulur (değişiklikler kalıcı olmaz, admin panelinde uyarı çıkar).
 

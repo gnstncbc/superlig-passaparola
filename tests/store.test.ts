@@ -1,6 +1,7 @@
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import seed from "@/data/seed-questions.json";
 import seedFixes from "@/data/seed-fixes.json";
+import seedRemoved from "@/data/seed-removed.json";
 
 // Minimal in-memory stand-in for the Upstash client (keyed like Redis).
 const store_ = { kv: new Map<string, unknown>(), hashes: new Map<string, Map<string, unknown>>(), sets: new Map<string, Set<string>>() };
@@ -89,6 +90,18 @@ describe("redis store seeding", () => {
     db.hash.set(fix.id, { ...seed.find((q) => q.id === fix.id)!, question: "edited by admin" });
     db.kv.set("sl:seedVersion", "old");
     expect((await store.listQuestions()).find((q) => q.id === fix.id)!.question).toBe("edited by admin");
+  });
+
+  it("removes retired default questions unless they were edited", async () => {
+    const [gone, kept] = seedRemoved;
+    seed.forEach((q) => db.hash.set(q.id, q));
+    db.hash.set(gone.id, { ...seed[0], id: gone.id, question: gone.question });
+    db.hash.set(kept.id, { ...seed[0], id: kept.id, question: "edited by admin" });
+    db.kv.set("sl:seedVersion", "old");
+    const ids = (await store.listQuestions()).map((q) => q.id);
+    expect(ids).not.toContain(gone.id);
+    expect(ids).toContain(kept.id);
+    expect(db.set.has(gone.id)).toBe(true);
   });
 
   it("does not restore deleted questions on the next seed update", async () => {
