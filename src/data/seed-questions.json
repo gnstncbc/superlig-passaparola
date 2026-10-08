@@ -329,10 +329,23 @@
     "letter": "A",
     "rule": "starts",
     "category": "superlig",
-    "question": "Galatasaray'ın 2025-26 şampiyonluğunu 4-2 yenerek ilan ettiği, maç sonrası sahadan ayrılan rakip Akdeniz kulübü.",
+    "question": "Galatasaray'ın 2025-26 şampiyonluğunu 4-2 yendiği maçla ilan ettiği, aynı sezon küme düşen Akdeniz kulübü.",
     "answer": "Antalyaspor",
     "alternates": [
       "Antalya"
+    ]
+  },
+  {
+    "id": "a33",
+    "letter": "A",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2025-26'da 1. Lig'i ikinci sırada bitirerek Süper Lig'e yükselen Diyarbakır kulübü.",
+    "answer": "Amed SK",
+    "alternates": [
+      "Amed",
+      "Amedspor",
+      "Amed Sportif"
     ]
   },
   {
@@ -833,6 +846,19 @@
     ]
   },
   {
+    "id": "c19",
+    "letter": "C",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2026'da 1. Lig play-off finalinde Esenler Erokspor'u 2-0 yenerek Süper Lig'e yükselen kulüp.",
+    "answer": "Çorum FK",
+    "alternates": [
+      "Corum FK",
+      "Çorum",
+      "Corum"
+    ]
+  },
+  {
     "id": "d1",
     "letter": "D",
     "rule": "starts",
@@ -978,6 +1004,50 @@
       "Türüç",
       "Turuc",
       "Deniz Turuc"
+    ]
+  },
+  {
+    "id": "d15",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2012'de Liverpool'dan gelip Fenerbahçe ile 2013 Türkiye Kupası'nı ve 2013-14 şampiyonluğunu kazanan Hollandalı forvet.",
+    "answer": "Dirk Kuyt",
+    "alternates": [
+      "Kuyt"
+    ]
+  },
+  {
+    "id": "d16",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ocak 2018'de Dinamo Kiev'den Beşiktaş'a gelen, kulüpte lig ve kupa şampiyonluğu yaşayan Hırvat stoper.",
+    "answer": "Domagoj Vida",
+    "alternates": [
+      "Vida"
+    ]
+  },
+  {
+    "id": "d17",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ağustos 2019'da Trabzonspor'a imza atan, Mart 2020'de sözleşmesi feshedilen Liverpool'un eski İngiliz golcüsü.",
+    "answer": "Daniel Sturridge",
+    "alternates": [
+      "Sturridge"
+    ]
+  },
+  {
+    "id": "d18",
+    "letter": "D",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "José Mourinho'nun ardından Eylül 2025'te Fenerbahçe'nin başına geçen, kulübün ikinci İtalyan teknik direktörü.",
+    "answer": "Domenico Tedesco",
+    "alternates": [
+      "Tedesco"
     ]
   },
   {
@@ -1158,6 +1228,18 @@
     ]
   },
   {
+    "id": "e16",
+    "letter": "E",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2025-26'da 1. Lig'i şampiyon tamamlayarak Süper Lig'e yükselen Doğu Anadolu kulübü.",
+    "answer": "Erzurumspor",
+    "alternates": [
+      "Erzurum",
+      "Erzurumspor FK"
+    ]
+  },
+  {
     "id": "f1",
     "letter": "F",
     "rule": "starts",
@@ -1317,6 +1399,31 @@
     ]
   },
   {
+    "id": "f17",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2017'de Manchester City'den Galatasaray'a gelip 2017-18 ve 2018-19 şampiyonluklarını yaşayan Brezilyalı defansif orta saha.",
+    "answer": "Fernando Reges",
+    "alternates": [
+      "Fernando",
+      "Reges"
+    ]
+  },
+  {
+    "id": "f18",
+    "letter": "F",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2025-26 sezonunda Kayserispor ve Antalyaspor ile birlikte Süper Lig'den düşen İstanbul kulübü.",
+    "answer": "Fatih Karagümrük",
+    "alternates": [
+      "Karagümrük",
+      "Karagumruk",
+      "Fatih Karagumruk"
+    ]
+  },
+  {
     "id": "g1",
     "letter": "G",
     "rule": "starts",
@@ -1461,6 +1568,17 @@
     "answer": "Galatasaray",
     "alternates": [
       "Cimbom"
+    ]
+  },
+  {
+    "id": "g14",
+    "letter": "G",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Önce Galatasaray'da oynayıp 2019'da Al-Ittihad'dan kiralık olarak Fenerbahçe'ye geçen Yeşil Burunlu kanat.",
+    "answer": "Garry Rodrigues",
+    "alternates": [
+      "Rodrigues"
     ]
   },
   {
@@ -1650,6 +1768,30 @@
     ]
   },
   {
+    "id": "h17",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2012'de Real Madrid'den 3,5 milyon euroya Galatasaray'a gelip 2012-13 şampiyonluğunu yaşayan milli orta saha.",
+    "answer": "Hamit Altıntop",
+    "alternates": [
+      "Altıntop",
+      "Altintop",
+      "Hamit Altintop"
+    ]
+  },
+  {
+    "id": "h18",
+    "letter": "H",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2018-19'da Everton'dan kiralık olarak Galatasaray'da oynayıp şampiyonlukta önemli rol alan Nijeryalı kanat.",
+    "answer": "Henry Onyekuru",
+    "alternates": [
+      "Onyekuru"
+    ]
+  },
+  {
     "id": "i1",
     "letter": "I",
     "rule": "starts",
@@ -1829,6 +1971,19 @@
     ]
   },
   {
+    "id": "i17",
+    "letter": "I",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Eylül 2025'te son transfer gününde Manchester City'den bedelsiz olarak Galatasaray'a gelen, Almanya milli takımının eski kaptanı.",
+    "answer": "İlkay Gündoğan",
+    "alternates": [
+      "Gündoğan",
+      "Gundogan",
+      "Ilkay Gundogan"
+    ]
+  },
+  {
     "id": "j1",
     "letter": "J",
     "rule": "starts",
@@ -1964,6 +2119,30 @@
     "alternates": [
       "Josef",
       "de Souza"
+    ]
+  },
+  {
+    "id": "j13",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2025-26 Şampiyonlar Ligi play-off turunda eleyerek son 16'ya kaldığı İtalyan devi.",
+    "answer": "Juventus",
+    "alternates": [
+      "Juve"
+    ]
+  },
+  {
+    "id": "j14",
+    "letter": "J",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Temmuz 2025'te Al Nassr'dan bir yıllığına Fenerbahçe'ye kiralanan Kolombiyalı golcü.",
+    "answer": "Jhon Durán",
+    "alternates": [
+      "Duran",
+      "Jhon Duran",
+      "Durán"
     ]
   },
   {
@@ -2332,6 +2511,19 @@
     "alternates": []
   },
   {
+    "id": "l14",
+    "letter": "L",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Bayern Münih'teki sözleşmesi bittikten sonra 2025'te bedelsiz olarak Galatasaray'a gelen Alman kanat.",
+    "answer": "Leroy Sané",
+    "alternates": [
+      "Sané",
+      "Sane",
+      "Leroy Sane"
+    ]
+  },
+  {
     "id": "m1",
     "letter": "M",
     "rule": "starts",
@@ -2546,6 +2738,30 @@
     "answer": "Mallorca",
     "alternates": [
       "RCD Mallorca"
+    ]
+  },
+  {
+    "id": "m20",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Temmuz 2006'da Türk vatandaşlığı alarak A Milli Takım'ın ilk devşirme oyuncusu olan, 2003-2008 arasında Fenerbahçe'de oynayan Brezilya doğumlu orta saha.",
+    "answer": "Mehmet Aurélio",
+    "alternates": [
+      "Aurélio",
+      "Aurelio",
+      "Mehmet Aurelio"
+    ]
+  },
+  {
+    "id": "m21",
+    "letter": "M",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Galatasaray'ın 2025-26 Şampiyonlar Ligi son 16 turunda İstanbul'da Liverpool'u 1-0 yendiği maçın golünü atan Gabonlu orta saha.",
+    "answer": "Mario Lemina",
+    "alternates": [
+      "Lemina"
     ]
   },
   {
@@ -2969,6 +3185,17 @@
     ]
   },
   {
+    "id": "p13",
+    "letter": "P",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "20 Nisan 2003'teki Fenerbahçe derbisinde gol sonrası yaptığı hareket yüzünden Beşiktaş'tan gönderilip 7 ay men cezası alan Fransız forvet.",
+    "answer": "Pascal Nouma",
+    "alternates": [
+      "Nouma"
+    ]
+  },
+  {
     "id": "q1",
     "letter": "Q",
     "rule": "starts",
@@ -3172,6 +3399,17 @@
     "answer": "Rigobert Song",
     "alternates": [
       "Song"
+    ]
+  },
+  {
+    "id": "r15",
+    "letter": "R",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2012'de Chelsea'den Fenerbahçe'ye gelip 2016'ya kadar kalan Portekizli orta saha.",
+    "answer": "Raul Meireles",
+    "alternates": [
+      "Meireles"
     ]
   },
   {
@@ -3422,6 +3660,18 @@
     ]
   },
   {
+    "id": "s25",
+    "letter": "S",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ocak 2025'te PSG'den kiralanıp ardından dört yıllık sözleşme imzalayan Fenerbahçe'nin Slovak stoperi.",
+    "answer": "Milan Škriniar",
+    "alternates": [
+      "Skriniar",
+      "Milan Skriniar"
+    ]
+  },
+  {
     "id": "t1",
     "letter": "T",
     "rule": "starts",
@@ -3595,7 +3845,7 @@
     "letter": "U",
     "rule": "starts",
     "category": "superlig",
-    "question": "Trabzonspor'un milli kalecisi Uğurcan ___.",
+    "question": "Trabzonspor'da yetişip 2025'te Türk futbol tarihinin en pahalı transferlerinden biriyle Galatasaray'a geçen milli kaleci Uğurcan ___.",
     "answer": "Uğurcan Çakır",
     "alternates": [
       "Çakır",
@@ -3731,6 +3981,31 @@
     ]
   },
   {
+    "id": "u14",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Sevilla maçlarındaki performansıyla 'Sevilla Fatihi' diye anılan, Euro 2008 yarı finalinde Almanya'ya gol atan Fenerbahçeli kanat.",
+    "answer": "Uğur Boral",
+    "alternates": [
+      "Boral",
+      "Ugur Boral"
+    ]
+  },
+  {
+    "id": "u15",
+    "letter": "U",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2003'ten itibaren Fenerbahçe'nin kaptanlığını yapan, 2007'de Köln'e transfer olan milli sol bek.",
+    "answer": "Ümit Özat",
+    "alternates": [
+      "Özat",
+      "Ozat",
+      "Umit Ozat"
+    ]
+  },
+  {
     "id": "v1",
     "letter": "V",
     "rule": "starts",
@@ -3858,6 +4133,17 @@
     ]
   },
   {
+    "id": "v13",
+    "letter": "V",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "2017'de Lyon'dan Fenerbahçe'ye gelip iki sezon oynadıktan sonra Olympiacos'a geçen Fransız ofansif orta saha.",
+    "answer": "Mathieu Valbuena",
+    "alternates": [
+      "Valbuena"
+    ]
+  },
+  {
     "id": "w1",
     "letter": "W",
     "rule": "starts",
@@ -3979,6 +4265,17 @@
     "question": "Joshua King'in 2022'de Fenerbahçe'ye gelmeden önce oynadığı İngiliz kulübü.",
     "answer": "Watford",
     "alternates": []
+  },
+  {
+    "id": "w12",
+    "letter": "W",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ağustos 2025'te yaklaşık 30 milyon euroya Monaco'dan Galatasaray'a transfer olan Fildişili savunmacı.",
+    "answer": "Wilfried Singo",
+    "alternates": [
+      "Singo"
+    ]
   },
   {
     "id": "x1",
@@ -4119,6 +4416,17 @@
     ]
   },
   {
+    "id": "x13",
+    "letter": "X",
+    "rule": "contains",
+    "category": "superlig",
+    "question": "Eylül 2021'de Köln'den bedelsiz olarak Fenerbahçe'ye gelen, Schalke 04 altyapısından yetişmiş Alman orta saha.",
+    "answer": "Max Meyer",
+    "alternates": [
+      "Meyer"
+    ]
+  },
+  {
     "id": "y1",
     "letter": "Y",
     "rule": "starts",
@@ -4251,6 +4559,19 @@
     ]
   },
   {
+    "id": "y12",
+    "letter": "Y",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ocak 2021'de Wolfsburg'dan Trabzonspor'a gelen ve 2021-22 şampiyonluğunu yaşayan milli orta saha.",
+    "answer": "Yunus Mallı",
+    "alternates": [
+      "Mallı",
+      "Malli",
+      "Yunus Malli"
+    ]
+  },
+  {
     "id": "z1",
     "letter": "Z",
     "rule": "starts",
@@ -4338,6 +4659,29 @@
     "answer": "Zafer Biryol",
     "alternates": [
       "Biryol"
+    ]
+  },
+  {
+    "id": "z9",
+    "letter": "Z",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Ağustos 2010'da Wolfsburg'dan Galatasaray'a gelip yalnızca birkaç ay sonra Dinamo Moskova'ya giden Bosnalı orta saha.",
+    "answer": "Zvjezdan Misimović",
+    "alternates": [
+      "Misimovic"
+    ]
+  },
+  {
+    "id": "z10",
+    "letter": "Z",
+    "rule": "starts",
+    "category": "superlig",
+    "question": "Şubat 2023'te Roma'dan Galatasaray'a transfer olan İtalyan ofansif oyuncu Nicolò ___.",
+    "answer": "Nicolò Zaniolo",
+    "alternates": [
+      "Zaniolo",
+      "Nicolo Zaniolo"
     ]
   }
 ]

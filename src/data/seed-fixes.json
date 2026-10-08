@@ -10,5 +10,17 @@
     "field": "question",
     "from": "Fenerbahçe'nin 2004-2012 arası kaptanlığını da yapan, stadın önüne heykeli dikilen Brezilyalı efsane 10 numara.",
     "to": "Fenerbahçe'de 2004-2012 arasında oynayıp 2007'den itibaren kaptanlık yapan, taraftarların 2012'de heykelini diktiği Brezilyalı efsane 10 numara."
+  },
+  {
+    "id": "a32",
+    "field": "question",
+    "from": "Galatasaray'ın 2025-26 şampiyonluğunu 4-2 yenerek ilan ettiği, maç sonrası sahadan ayrılan rakip Akdeniz kulübü.",
+    "to": "Galatasaray'ın 2025-26 şampiyonluğunu 4-2 yendiği maçla ilan ettiği, aynı sezon küme düşen Akdeniz kulübü."
+  },
+  {
+    "id": "u1",
+    "field": "question",
+    "from": "Trabzonspor'un milli kalecisi Uğurcan ___.",
+    "to": "Trabzonspor'da yetişip 2025'te Türk futbol tarihinin en pahalı transferlerinden biriyle Galatasaray'a geçen milli kaleci Uğurcan ___."
   }
 ]
